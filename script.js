@@ -6,7 +6,7 @@ let questionContainer = document.querySelector(".container")
 const keypress = document.querySelector(".keypress")
 const key = document.getElementById('key')
 const nav = document.querySelector("nav")
-console.log(nav);
+
 
 
 
